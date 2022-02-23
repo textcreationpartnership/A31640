@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Mr. Braine Br. of Divinity concerning an administrator of water-baptisme.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31640</idno>
+            <idno type="STC">Wing C1897</idno>
+            <idno type="STC">ESTC R40320</idno>
+            <idno type="EEBO-CITATION">18846753</idno>
+            <idno type="OCLC">ocm 18846753</idno>
+            <idno type="VID">108426</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108426)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Mr. Braine Br. of Divinity concerning an administrator of water-baptisme.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed at end: August, 1650. Peter Chamberlen.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists.</term>
+               <term>Baptism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:108426:1" rendition="simple:additions"/>
+            <head>A LETTER TO Mr. BRAINE Br. of Divinity. Concerning an <hi>Adminiſtrator</hi> of <hi>Water-Baptiſme.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>UNleſs <hi>Diſputes</hi> were ſyllogiſtical, and then to a <hi>Mo<g ref="char:EOLhyphen"/>derator,</hi> your <hi>Apprehenſions</hi> are too nimble, and your <hi>Learning</hi> too great, and your <hi>Diſcourſe</hi> too fluent, to debate our difference by a multitude of words; for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either we our ſelves, nor the <hi>Auditors,</hi> do receive ſatisfaction. I thought good therefore to proceed in writing, not repeating what either you or I ſaid in heat or anger; but to take the Queſtion <hi>de Novo.</hi> You enquire after an <hi>Adminiſtrator,</hi> which enquiry, nor ſo much as the word it ſelf is found in all the <hi>Scripture,</hi> but is a new found word, lately uſed to diſturb the <hi>Ordinances</hi> of <hi>God.</hi> But we may find the ſum of the queſtion in theſe words, <hi>By what Authority doſt thou theſe things?</hi> Sir, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the ſum of your queſtion, and this Sir, was the <hi>Phariſees</hi> Queſtion. <hi>Mat.</hi> 21.33. and might receive a like Anſwer, by way of Queſtion,</p>
+            <p>
+               <hi>By what Authority doſt thou demand theſe things?</hi> The queſtion was propounded by <hi>Phariſees,</hi> men learned, men of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epute and Honour amongſt the People, men in humane Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hority; for they were <hi>Prieſts</hi> and <hi>Levites,</hi> and Rulers of the
+<pb n="2" facs="tcp:108426:2"/> People. <hi>John</hi> 1.19.24. <hi>John</hi> 3.1. &amp; 7.32.45.47.48. &amp; 9.13. &amp; 11.47.48.57. &amp; 12.42. &amp; 18.3 I cannot ſay they were <hi>Mi<g ref="char:EOLhyphen"/>niſters,</hi> but <hi>Commanders.</hi>
+            </p>
+            <p>They asked this queſtion to <hi>Chriſt,</hi> the Anointed of the Lord, the Son of God: yet in the eye of men, a <hi>Samaritan,</hi> a <hi>Car<g ref="char:EOLhyphen"/>penters</hi> Son, of no humane Learning; yea, one that was eſteem<g ref="char:EOLhyphen"/>ed to have a Devil. (<hi>John</hi> 8.48. <hi>Samar:) (Mat.</hi> 13.55. <hi>Mark</hi> 6.3. <hi>Carp.) Mat.</hi> 13.54.56. whence?) <hi>John</hi> 8.48. <hi>Mat.</hi> 10.25. <hi>Mark</hi> 3.22. <hi>Luke</hi> 11.15. a Devil <hi>Beelzebub.</hi>)</p>
+            <p>This queſtion was the queſtion in the <hi>Biſhops</hi> dayes to all that ſought the wayes of <hi>Chriſt,</hi> or endeavoured to propagate the Truth. This queſtion is the great queſtion, the main queſtion of the Church of <hi>Rome,</hi> and is yet the queſtion amongſt us; in<g ref="char:EOLhyphen"/>timating that there is no Authority, but what cometh from Man, or is ſucceſſively by Man. Alas poor men! The workings of the ſpirit are inviſible to humane ſight. The ſpirit bloweth where it liſteth. <hi>John</hi> 3. and <hi>Chriſt</hi> is a <hi>Prieſt</hi> for ever after the Order of <hi>Melchizedeck.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 5.</note> Shall we ask Authority of Man to be wiſe, or honeſt, or juſt? This was the folly the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> firſt ran in, when thoſe corrupt men were in it, that coſt ſo much blood. When they asked leave of the <hi>King</hi> to diſ<g ref="char:EOLhyphen"/>charge their Conſciences, to make juſt Lawes to diſcharge their Truſt, and eaſe the grievances of the People, for which they were called.</p>
+            <p>Well, <hi>Chriſt</hi> anſwers them with a queſtion.</p>
+            <p>The <hi>Baptiſme</hi> of <hi>John,</hi> was it of <hi>God</hi> or <hi>Man?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Verſe</hi> 26</note>
+               <hi>John</hi> had Authority from <hi>God,</hi> but they knew it not, and (propably) had they not feared the People would have affirm<g ref="char:EOLhyphen"/>ed his <hi>Baptiſme</hi> to be his own preſumption and hereſie. For the Word came to <hi>John</hi> in the <hi>Wilderneſs. (Luke</hi> 3.2.) and <hi>John</hi> wrought no miracle. (<hi>John</hi> 10.41.) yet the People (whom the <hi>Phariſees</hi> judged accurſed, (<hi>John</hi> 7.) and the <hi>Publicans ju<g ref="char:EOLhyphen"/>ſtified God,,</hi> in being baptized of him; But the <hi>Phariſees</hi> and <hi>Lawyers</hi> are ſaid to <hi>reject the Counſel of God</hi> againſt them<g ref="char:EOLhyphen"/>ſelves, in being not baptized of him. (<hi>Luke</hi> 7.29.30.) yet Sir, there was no written word for <hi>Johns</hi> Authority to baptize. Only an obſcure Propheſie which they could not underſtand,
+<pb n="3" facs="tcp:108426:2"/> nor any but by the immediate ſpirit of God, or the Son of God to interpret. The voyce of one crying in the <hi>Wilderneſs,</hi> &amp;c. (<hi>Iſay</hi> 40.3.) there is nothing but a voyce, and that in the <hi>Wilderneſs.</hi> Yet this voyce in the <hi>Wilderneſs</hi> ſets up an <hi>Ordinance,</hi> the <hi>Ordinance</hi> of <hi>Baptiſme,</hi> for the remiſſion of ſins, (<hi>Luk.</hi> 3.3.) juſtified by ſinners,<note place="margin">
+                  <hi>Rom.</hi> 102. <hi>Phil.</hi> 3.6.</note> condemned by zealous and learned <hi>Phari<g ref="char:EOLhyphen"/>ſees</hi> and <hi>Lawyers. Luke</hi> 7.29.30. The People ſtood not capi<g ref="char:EOLhyphen"/>tulating with <hi>John</hi> about his Authority, or how he could prove that the Word came to him in the <hi>Wilderneſs,</hi> and who made him an <hi>Adminiſtrator.</hi> Nor did they cavil at him for ſtriking at their chief and main priviledge,<note place="margin">
+                  <hi>Luke</hi> 3.8.</note> of being Sons of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> which they and all the world knew they were. But the People asked him, ſaying, what ſhall we do then? (<hi>verſe</hi> 10.) They conſidered, that what he ſpake was honeſt and rea<g ref="char:EOLhyphen"/>ſonable, and full of Piety and Holineſs. It was fit that men ſhould repent; for their Conſcience told them they had ſin<g ref="char:EOLhyphen"/>ned: and finding the ſubſtance true, they never quarreld with the circumſtance of Authority, yet they had then a viſible Au<g ref="char:EOLhyphen"/>thority amongſt them ordained of God. <hi>Annas</hi> and <hi>Caiphas</hi> were <hi>High-Prieſts,</hi> and the <hi>Prieſts</hi> lips were to preſerve know<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>Sir, I come near home, you have ingenuouſly and publickly acknowledged <hi>Water-Baptiſme,</hi> an <hi>Ordinance</hi> of <hi>Chriſt,</hi> and that it is neceſſary, and it is only due unto <hi>Believers;</hi> but you allow no <hi>Adminiſtrator,</hi> becauſe there hath been no viſible ſucceſſion. I beſeech you in the love of <hi>Chriſt</hi> to abate of the earneſtneſs of your ſpirit, in what you have been ſo long endeerd unto, and now the more by having been heated therein by <hi>Diſputes.</hi> Look upon the buſineſs <hi>de novo,</hi> as if you never had heard, or been engaged to either ſide. And the Lord in mercy to your ſoul, and to his Church, to the which you might be ſo bright and ſhining a Lamp, (if once perſwaded of the truth) grant you a clear and impartial underſtanding of his will and pleaſure.</p>
+            <p>Sir, God had a Church in the World, though in the Wil<g ref="char:EOLhyphen"/>derneſs. And the Church was a Church, a viſible Church in it ſelf, though in the Wilderneſs, and our from the manifeſt and ſtately Cities and Buildings of men. And the Church was fed
+<pb n="4" facs="tcp:108426:3"/> in the Wilderneſs,<note place="margin">
+                  <hi>Rev</hi> 12.14. <hi>Mat.</hi> 16 18.</note> (though the Habitation of wild Beaſts.) And the Gates of Hell neither were, nor ſhall be ever able to prevail againſt it. If in the Wilderneſs, where form, and order, &amp; decency could not be, much more in the City, in heavenly <hi>Jeruſalem,</hi> (the Mother of us all. <hi>Gal.</hi> 4.26.) where God is our light, <hi>Rev.</hi> 21.23. The God of Order, 1 <hi>Cor.</hi> 14.33.) Therefore, whe<g ref="char:EOLhyphen"/>ther in City or in Wilderneſs, there is a Church, and ſhe is fed; yea, and ſome out of the Wilderneſs, whilſt ſhe her ſelf is in the Wildernes. <hi>Rev.</hi> 12.17. (a Remnant of her ſeed.) And ſuch are they who keep the Commandemen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of God, and have the Teſtimony, (not of Men) but of <hi>Jeſus Chriſt. (ibid.)</hi>
+            </p>
+            <p>When the <hi>Iſraelites</hi> murmured for want of water, and that <hi>Moſes</hi> gave it them out of the Rock, they asked not whether they ſhould drink in ſanctified Veſſels, or ſtayed till <hi>Moſes</hi> gave them every one their proportion. They would not let the wa<g ref="char:EOLhyphen"/>ter run by them ſo in waſte. When we read the word of God (and not of man) that tells us <hi>Jeſus Chriſt</hi> came into the world to ſave ſinners, <hi>Jo:</hi> 3.1 <hi>Tim:</hi>) and he is for ſalvation to the ends of the Earth. <hi>Acts</hi> 13.47. And that whoſoever believeth and is baptized, ſhall be ſaved. <hi>Mark</hi> 16.16. And that unleſs a Man be born of Water and of the ſpirit, he can in no wiſe enter into the Kingdom of Heaven. <hi>Jo:</hi> 3.5. And that we finding experi<g ref="char:EOLhyphen"/>mentally that we can be baptized if we will, there having ne<g ref="char:EOLhyphen"/>ver been any reſtraint in the word upon the <hi>Baptizer.</hi> We can<g ref="char:EOLhyphen"/>not but hear the voyce of <hi>Chriſt, John</hi> 10.2. We cannot neg<g ref="char:EOLhyphen"/>lect ſo great ſalvation, we cannot belie the abilities and provi<g ref="char:EOLhyphen"/>dence of God offered unto us. It is not ſaid, whomſoever ye baptize; but whoſoever is baptized, <hi>Mark</hi> 16. Whoſoever worketh Righteouſneſs is righteous,<note place="margin">1. <hi>John</hi> 3.7. <hi>Rom.</hi> 6.17.</note> not he that ſaith <hi>L.L.</hi> but he that doth the will of the Father. (<hi>Mat.</hi> 7.21.) His Servants ye are to whom ye obey. Not the Commands of God, but our Obedience makes us his Servants. If therefore ye ask by what Authority we obey the Commands of God? I anſwer, it is by the Authority and power of God. For the word of God came to <hi>John</hi> in the Wilderneſs, and the word of God is come unto us, whether in the Wilderneſs, or out of the Wilderneſs, and you do not deny it to be the word of God. All power is of
+<pb n="5" facs="tcp:108426:3"/> God. (<hi>Rom.</hi> 13.2. <hi>Jo:</hi> 19.11.) If therefore we are baptized, and it is his Command we ſhould be baptized: what do we queſtion the Authority of his Command? The hair of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead falls not to the ground without his providence, (<hi>Mat.</hi> 10.30.) <hi>Chriſt</hi> is with us to the end of the world, (<hi>Mat.</hi> 28.20.) He hath not left us comfortleſs, (<hi>Jo:</hi> 14.18.) Bleſſed are they that believe and have not ſeen, <hi>John</hi> 20.29. We cannot but have Authority to be honeſt, to be juſt, to be righteous, to be faithful, to be obedient. It is ridiculous to affirm the contra<g ref="char:EOLhyphen"/>ry. Every man that is wounded hath Authority to ſtanch his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a blood, or to do the like charity to another, (if he can) without a <hi>Surgeon.</hi> The word of God declareth the Command <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Teaching and Preaching, and diſciplining in the Active, (<hi>Mat.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.19.20. <hi>Mark</hi> 16.15.<note place="margin">
+                  <hi>Acts</hi> 2.41.</note>) But of bapt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zing in the Paſſive, or in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>articiple, (<hi>ibid. verſe</hi> 16. <hi>Act.</hi> 16.15.33. and 18.8. &amp; 8.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. <hi>&amp;c.</hi>)</p>
+            <p>If Preaching be more then Baptizing, then whoſoever may <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch, may Baptize.</p>
+            <p>But Preaching is more then Baptizing, as may appear, 1 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>17. <hi>Act.</hi> 10.48.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the liberty of preaching, whether <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. You may read it in <hi>Act.</hi> 8.4.5. &amp; 9.20. as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as ever <hi>Paul</hi> was baptized, and 15.21. and <hi>Phil.</hi> 1.14.15.<note place="margin">
+                  <hi>Acts</hi> 18.26.28.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1 <hi>Cor.</hi> 14.31. (<hi>Act.</hi> 4.31. and 5.30. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the <hi>A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as well as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and falſe Brethren, <hi>Jewes</hi> did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (<hi>Act.</hi> 15.21. <hi>Phil.</hi> 1.15.) as well <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth is, every man hath Authority to ſpeak truth, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peak that Truth which God will have publiſhed to the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e World. And if man will not do it,<note place="margin">
+                  <hi>Luke</hi> 19 40.</note> the very ſtones of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eet will. The Heavens declare the glory of God, and the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ent ſheweth his handy-work, <hi>Pſal.</hi> 19. ſo that their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is gone out to the uttermoſt ends of the Earth. <hi>Rom.</hi> 10. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one can preach unleſs he be ſent. <hi>Rom.</hi> 10.15. If we then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we are ſent; for none can come unto <hi>Chriſt,</hi> unleſs the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> draw him, (<hi>Jo:</hi> 6.44.45.) and all that the Father hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Chriſt</hi> ſhall come unto him, (<hi>Jo.</hi> 6.37.) for the Goſpel
+<pb n="6" facs="tcp:108426:4"/> is hid to none but thoſe that are loſt. 2 <hi>Cor.</hi> 4.3. And as with<g ref="char:EOLhyphen"/>out <hi>Chriſt</hi> we can do nothing, (<hi>Jo:</hi> 15.5.) ſo we cannot but ſpeak the things which we have ſeen and heard, <hi>Act.</hi> 4.20. The voice of the <hi>Creation</hi> hath ſpoken to us, the voice of <hi>Providence,</hi> the voice of <hi>Conſcience,</hi> the voice of his <hi>Word,</hi> (the voice of <hi>God.</hi>) What, ſhould we boaſt of <hi>Viſions</hi> of <hi>Revelations,</hi> of <hi>Dreams,</hi> of <hi>Chaſtiſements,</hi> of <hi>Sufferings,</hi> of <hi>Miracles,</hi> of <hi>Providence,</hi> of <hi>Prayers?</hi> yet we have a more ſure word of <hi>Propheſie,</hi> 2 <hi>Pet.</hi> 1.19. And <hi>Chriſt</hi> himſelf ſaith, that if ye believe not the <hi>Scriptures,</hi> how ſhall ye believe my words. <hi>Jo:</hi> 5.47? Words which ſhall judge us in the laſt day. <hi>Jo:</hi> 10. Words ſo un<g ref="char:EOLhyphen"/>changeable, that <hi>Heaven</hi> and <hi>Earth</hi> ſhall paſſe away before one jot ſhall paſſe. <hi>Mat.</hi> 5.18. That whoſoever addeth, the judge<g ref="char:EOLhyphen"/>ments and plagues of the <hi>Revelation</hi> ſhall be added, and who<g ref="char:EOLhyphen"/>ſoever taketh away, his Name ſhall be taken out of the book of life, (<hi>Rev.</hi> 22 18.19.) yea though an <hi>Apoſtle,</hi> or an <hi>Angel</hi> ſhall preach any other Goſpel, let him be accurſed. <hi>Gal.</hi> 1.8.9. This word of God ſaith, Whoſoever believeth and is baptized, ſhall be ſaved; and whoſoever believeth not, ſhall be damned, (<hi>Mark</hi> 16.16.) Shall this word have any more Authority, be<g ref="char:EOLhyphen"/>cauſe this or that <hi>Miniſter</hi> confirms it? Man cannot make the word of God true, nor can the Sonnes of man, give Authori<g ref="char:EOLhyphen"/>ty to the Word of God. But whomſoever the word of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> emboldeneth, empowereth to be a <hi>Witneſs,</hi> a <hi>Meſſenger, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Preacher,</hi> though a Child, (<hi>Mat.</hi> 21.16.) though an Earthe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Veſſel. (2 <hi>Cor.</hi> 4.7.) though a fool. (1 <hi>Cor.</hi> 3.18.) thoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a thing of nought. (1 <hi>Cor.</hi> 1.28.) He will by them perfec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prayſe, diſtribute his heavenly Treaſure, confound the wiſdo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the World, and bring to nought things that are. If we the for obeying the Command of God, are this day accuſed, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be ſaid to thoſe that obey not? to thoſe that forbid tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commands? to thoſe that oppoſe and ſpeak evil of that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bedience?</p>
+            <p>
+               <hi>Sir,</hi> I beſeech you make haſt, and bring in that Treaſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Chriſt</hi> hath intruſted you with into the publick Stock of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Church. And by how much you perceive any weakneſs in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:108426:4"/> by ſo much the more do you haſten to ſtrengthen us, that I may ever be,</p>
+            <closer>
+               <salute>Learned Sir,</salute>
+               <signed>Your very faithful Servant in the Lord, <hi>PETER CHAMBERLEN.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Auguſt,</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>The <hi>Heavens</hi> and the Earth were brought forth by the word of God, (<hi>Gen.</hi> 1.) Man liveth not by bread only, but by every word that proceedeth out of the mouth of God. (<hi>Mat.</hi> 4.) The word of God hath made us, and we are the workmanſhip of his hands. (<hi>Pſ:</hi> 100) The word hath ſaid, that whereſoe<g ref="char:EOLhyphen"/>ver two or three are gathered together in the name of <hi>Chriſt,</hi> he is there in the midſt of them (<hi>Mat.</hi> 18.20.) If therefore any are aſſembled by the power of that word teſtified, in that they therefore do it, and not by the Traditions of men or Cu<g ref="char:EOLhyphen"/>ſtome, is not that an Aſſembly of <hi>Chriſt?</hi> And if ought were wanting of a circumſtance, hath not he promiſed that what 2. ſhall conſent ſo on earth his Father ſhall do it for them? (<hi>Mat.</hi> 18.19.) Hath he not powred of his ſpirit on all fleſh? <hi>Act.</hi> 2.) Is his Arm ſhortned, or his promiſe broken? Conſider &amp; obey, I beſeech you reſiſt not the power and ſpirit of God, whereby we are ſealed. What Authority was there for thoſe that were diſperſed to preach, or for <hi>Philip</hi> to baptize. <hi>Acts</hi> 8.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
